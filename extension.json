@@ -1,6 +1,6 @@
 {
     "id": "atlaskit-editor",
     "name": "Atlaskit editor",
-    "srcdoc": "index.html",
+    "src": "index.html",
     "fieldTypes": ["Text"]
   }
