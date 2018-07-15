@@ -1,6 +1,6 @@
 {
     "id": "atlaskit-editor",
     "name": "Atlaskit editor",
-    "src": "index.html",
+    "src": "https://github.com/ajaymathur/contentful-atlaskit-editor-extension/blob/master/index.html",
     "fieldTypes": ["Text"]
   }
